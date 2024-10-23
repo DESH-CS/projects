@@ -5,7 +5,7 @@ int main(){
                 printf("\n Hello World");
                 c=a*b;
                 printf("\n a*b=%d",c);
-		 printf("\n My name is %s and i have maks %d",name,c);
+		 printf("\n My name is %s and i have marks %d",name,c);
 
         return 0;
 }
